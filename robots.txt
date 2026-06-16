@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://oomsmedia.nl/sitemap.xml
+Sitemap: https://ooms-media.nl/sitemap.xml
